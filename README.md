@@ -1,22 +1,25 @@
-# Model Deployment using Streamlit App on Iris Dataset
+# Triển Khai Mô Hình Sử Dụng Ứng Dụng Streamlit trên Tập Dữ Liệu Iris
 
-## Overview
+## Tổng Quan
 
-This project is a simple web application built with Streamlit to explore and visualize the famous Iris dataset. The Iris dataset is a classic dataset in machine learning and is often used for practicing classification algorithms.
+Dự án này là một ứng dụng web đơn giản được xây dựng bằng Streamlit để khám phá và trực quan hóa tập dữ liệu Iris nổi tiếng. Tập dữ liệu Iris là một tập dữ liệu kinh điển trong lĩnh vực máy học và thường được sử dụng để thực hành các thuật toán phân loại.
 
-## Link to app
+## Liên Kết Đến Ứng Dụng
 
-You can access the app
+Bạn có thể truy cập ứng dụng 
 
-## Project Structure
+## Cấu Trúc Dự Án
 
-- **app.py**: Main file containing the Streamlit application code.
-- **requirements.txt**: List of Python dependencies for the project.
+- **app.py**: Tập tin chính chứa mã nguồn của ứng dụng Streamlit.
+- **requirements.txt**: Danh sách các thư viện Python cần thiết cho dự án.
 
-## Technologies Used
+## Hướng dẫn
 
-- Python
-- Streamlit
-- Pandas
-- Scikit-learn
-# Iris-Classifer-using-streamlit
+Bước 1: Hoàn thiện bài Iris Classifier
+Bước 2: Tạo GitHub Repo
+Bước 3: Triển khai ứng dụng lên Streamlit Cloud
+
+- Đăng nhập hoặc tạo tài khoản trên Streamlit Cloud nếu bạn chưa có.
+- Tạo một ứng dụng mới trên Streamlit Cloud và kết nối nó với repository GitHub của bạn.
+- Chờ đợi quá trình triển khai hoàn thành.
+- Sau khi triển khai hoàn thành, Streamlit Cloud sẽ cung cấp cho bạn một đường dẫn để truy cập ứng dụng của bạn trên cloud.
